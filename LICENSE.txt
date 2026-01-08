@@ -1,0 +1,5 @@
+Copyright (c) 2026 Nox Vitae LLC. All rights reserved.
+
+This repository contains proprietary materials and documentation.  
+No part of this repository may be copied, modified, or distributed  
+without express written permission from Nox Vitae LLC.
