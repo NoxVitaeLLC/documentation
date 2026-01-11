@@ -1,4 +1,4 @@
-/* ──────────────── ⛧  NOX VITAE DOCUMENTATION THEME  ⛧ ──────────────── */
+/* ──────────────── ⛧  NOX VITAE DOCUMENTATION THEME ⛧ ──────────────── */
 
 /* ===== FONT IMPORTS ===== */
 @import '@fontsource/cinzel';
@@ -11,26 +11,30 @@
 
 /* ===== COLOR DEFINITIONS ===== */
 :root {
-  --accent-violet: #A03CFC;
-  --accent-violet-light: #C66AFC;
-  --background-deep: #0C0C0F;
-  --text-primary: #EDEDED;
-  --text-secondary: #898989;
-  --border-soft: #242424;
+  /* Accent Colors */
+  --highlight-turquoise: #00F0FF;
+  --accent-purple: #A03CFC;
 
+  /* Base Colors */
+  --background-deep: #0C0C0F;
+  --text-primary: #FFFFFF;
+  --text-secondary: #888888;
+  --border-soft: #333333;
+
+  /* Docusaurus vars */
   --ifm-font-family-base: 'Inter', sans-serif;
   --ifm-heading-font-family: 'Poppins', sans-serif;
   --ifm-background-color: var(--background-deep);
-  --ifm-color-primary: var(--accent-violet);
+  --ifm-color-primary: var(--accent-purple);
   --ifm-color-content: var(--text-primary);
 }
 
-/* ===== GENERAL TYPOGRAPHY ===== */
+/* ===== TYPOGRAPHY ===== */
 h1, h2 {
   font-family: 'Cinzel', serif !important;
   font-weight: 700 !important;
   letter-spacing: 0.5px;
-  color: var(--accent-violet);
+  color: var(--accent-purple);
   text-transform: uppercase;
 }
 
@@ -46,57 +50,41 @@ p, li, td {
   color: var(--text-primary);
 }
 
-/* Improve spacing */
-.markdown h1, .markdown h2 {
-  margin-top: 2.4rem;
-}
-.markdown h3 {
-  margin-top: 1.6rem;
-}
-
-hr {
-  border-color: var(--border-soft);
-}
-:root {
-  --nox-accent: #a259ff;
-}
-
-.navbar {
-  border-bottom: 2px solid var(--nox-accent);
-}
-
 /* ===== NAVBAR ===== */
 .navbar {
-  background: rgba(12, 12, 15, 0.9);
+  background: rgba(12,12,15,0.9);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--border-soft);
 }
 
-.navbar__title {
-  font-family: 'Cinzel', serif;
-  font-size: 20px !important;
-  letter-spacing: 1px;
-}
-
-/* ===== SIDEBAR ===== */
-.theme-doc-sidebar-container {
-  background-color: var(--background-deep);
-  border-right: 1px solid var(--border-soft);
-}
-
 .menu__link--active,
 .menu__link:hover {
-  color: var(--accent-violet) !important;
+  color: var(--accent-purple) !important;
 }
 
-/* ===== BUTTON STYLING ===== */
+/* ===== BUTTONS ===== */
 .button {
   border-radius: 8px;
   transition: all 0.25s ease-in-out;
+  background-color: var(--accent-purple);  /* purple default button */
+  color: var(--text-primary);               /* white text */
+  border: 1px solid var(--accent-purple);
 }
 
 .button:hover {
-  box-shadow: 0px 0px 12px rgba(160, 60, 252, 0.5);
+  background-color: var(--highlight-turquoise); /* turquoise on hover */
+  color: var(--background-deep);                /* dark text for contrast */
+  box-shadow: 0px 0px 12px rgba(0, 240, 255, 0.5); /* turquoise glow */
+  border-color: var(--highlight-turquoise);
+}
+
+/* ===== LINKS ===== */
+a {
+  color: var(--accent-purple);
+}
+
+a:hover {
+  color: var(--highlight-turquoise);
 }
 
 /* ===== CODE BLOCKS ===== */
@@ -115,7 +103,7 @@ pre, code {
 .heroTitle {
   font-size: 2.8rem;
   font-family: 'Cinzel', serif !important;
-  color: var(--accent-violet);
+  color: var(--accent-purple); /* updated to new purple */
 }
 
 .heroSubtitle {
@@ -127,4 +115,5 @@ pre, code {
 .footer {
   background: #0B0B0D;
   border-top: 1px solid var(--border-soft);
+  color: var(--text-primary);
 }
