@@ -92,11 +92,13 @@ Owners should help Individuals understand how the Owner, Nox Vitae and relevant 
 
 ### 2.2 Information Collected
 
-When an Owner interacts with our services, for example, by signing up for a trial, a subscription, or a newsletter or other content, or performing transactions, Nox Vitae may collect and control information such as Account Information, Contact Information, Payment Information, Support Information, Security Information, Transaction Information, Usage Information.
+When an Owner interacts with our services, for example by signing up for a trial, a subscription, a newsletter or other content, or by performing transactions, Nox Vitae may collect and control information such as Account Information, Contact Information, Payment Information, Support Information, Discord Guild ID, Security Information, Transaction Information, and Usage Information.
 
-When a Owner interacts with our “Bot”, Nox Vitae may collect and control information such as Account Information, Contact Information, Device Information, Usage Information and Security Information.
+When an Owner interacts with the Nox Vitae Bot, Nox Vitae may collect and control information such as Account Information, Contact Information, Device Information, Usage Information, and Security Information. This may also include basic server identifiers, such as the Discord Guild name, used for internal reference and system clarity.
 
-In addition, when an "Individual" or "user" initiates a verification process, Nox Vitae temporarily processes pending verification state data, including Discord User ID, Discord Guild ID, verification expiration timestamps, and processing status. This data is used solely to manage verification timeouts and completion and is not used for profiling, marketing, or unrelated purposes.
+When an Individual or user initiates a verification process, Nox Vitae temporarily processes pending verification state data, including Discord User ID, Discord Guild ID, verification expiration timestamps, processing status, and limited timing metadata used to enforce verification windows. This data is used solely to manage verification timeouts and completion and is not used for profiling, marketing, or unrelated purposes.
+
+In addition, Nox Vitae stores server-specific configuration data, such as Discord role IDs (including verification, age-restricted, linked, unverified, swap, and timeout roles), solely to enable automated role assignment and verification workflows. These values are associated with servers, not individuals, and do not constitute personal data.
 
 ### 2.3 Information Usage
 
@@ -214,7 +216,7 @@ For example, when using our cross-verification system, we may confirm that an in
 We do not handle or have access to any private information related to an individual's birthday. We only respect and rely on the badge to confirm that the individual has passed the necessary age verification step.
 
 ### 8.3.1 Private Data Collection Specification
-Please note that this automated process is strictly necessary for the operation of our services and does not involve the collection of any additional personal data without your consent.
+Please note that this automated process is strictly necessary for the operation of our services and does not involve the collection of any additional personal user data without your consent.
 
 ---
 

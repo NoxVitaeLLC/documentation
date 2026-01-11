@@ -3,88 +3,125 @@ id: data-collection-tldr
 title: Data Collection TL;DR
 sidebar_label: Data Collection TLDR
 ---
+
 # Data Collection TL;DR
 
-*Easier on the eyes, easier to read through what we do and do not collect—without the legal jargon in the way.*
+*An easy-to-read overview of what data we collect and why—without legal jargon.*
 
-**Please note:** by using our Discord servers and bots, you are agreeing to everything below and the hyperlinked resources. You can contact **[Nox Vitae's Official Email](mailto:NoxVitaeOfficial@gmail.com)** for any questions on our TOS.
+**Please note:** By using our Discord servers and bots, you agree to the terms below and the hyperlinked resources.  
+For questions, contact **[Nox Vitae Official Email](mailto:NoxVitaeOfficial@gmail.com)**.
 
-The terms below are incorporated into, and form an integral part of, the Nox Vitae Terms of Service. Unless otherwise defined herein, capitalized terms shall have the meaning ascribed them in the Terms of Service. Any breach of the terms below will be deemed a material breach of the Terms of Service.
+The terms below are incorporated into, and form an integral part of, the Nox Vitae Terms of Service. Capitalized terms not defined here have the meaning assigned in the Terms of Service.
 
 ---
 
 ## What data do we collect and store when you use our bot services?
 
-**From “Users”**
+### From Users
 
-- Discord User ID: This unique **and public** identifier links your Discord account to our services.
-- VRChat User ID: This unique **and public** identifier helps link your VRChat account. *(You provide this manually.)*
-- VRChat Age Verified Badge Status: A public identifier used to assign roles accordingly.
-- Temporary Verification Data: When you initiate verification, we temporarily store a pending verification record (Discord User ID, Discord Guild ID, and verification expiration status) solely to manage verification timeouts and completion (including expiration timestamp and processed flag)
+- **Discord User ID**  
+  A unique and public identifier used to associate you with verification and role assignment.
 
-**From “Servers”**
+- **VRChat User ID**  
+  A unique and public identifier used to link your VRChat account. *(Provided manually by you.)*
 
-- Discord Guild ID (aka Server ID): Used to identify your server.
-- Role IDs: Verified and +18 role IDs so the bot can assign them.
+- **VRChat Age-Verified Badge Status**  
+  A public badge state used to determine eligibility for age-restricted roles.
+
+- **Temporary Verification Data**  
+  When you initiate verification, we temporarily store a pending verification record to manage timeouts and completion. This may include:
+  - Discord User ID  
+  - Discord Guild ID  
+  - Verification expiration timestamp  
+  - Processed status (completed or expired)  
+  - *(Optional)* server join timestamp, used only for verification timing logic
 
 ---
 
-## Why do we collect that data?
+### From Servers
 
-We use this information strictly to link your Discord and VRChat accounts, enabling the bot to assign roles based on your age verification badge. This is the minimum necessary for the bot to work. See our [Privacy Policy](./privacy-policy.md) and [Terms of Service](./terms-of-service.md) for full definitions.
+- **Discord Guild ID (Server ID)**  
+  Used to identify the server where the bot is installed.
+
+- **Server Name**  
+  Stored for internal reference and system clarity.
+
+- **Role IDs**  
+  Stored so the bot can function correctly. These may include:
+  - Verification role ID  
+  - Age-restricted (18+) role ID  
+  - Linked role ID  
+  - Unverified role ID  
+  - Swap role IDs (used for automated role changes)  
+  - Timeout role ID (used by the verification timeout system)
+
+These values are configuration data, not personal user information.
 
 ---
 
-## What don’t we collect when you use the bot?
+## Why do we collect this data?
 
-- No email addresses, phone numbers, birthdays, usernames, passwords, or real names.
-- No data from your VRChat account beyond what you explicitly provide (e.g., no friends list, world data, etc.).
+We collect only the minimum data required to:
+
+- Link Discord and VRChat accounts
+- Verify age status
+- Assign, remove, or swap roles automatically
+- Enforce verification time limits
+- Operate server-specific configuration safely and consistently
+
+For full legal definitions, see our [Privacy Policy](./privacy-policy.md) and [Terms of Service](./terms-of-service.md).
 
 ---
 
 ## Data Access
 
-Your data is only accessed by priveleged users (those who Nox Vitae have employed to build/maintain the cross-verification bot) for maintenance purposes. This access is limited and monitored to protect your privacy.
+Data is accessible only to authorized Nox Vitae personnel involved in development and maintenance of the bot.  
+Access is limited, logged where applicable, and used solely for operational purposes.
 
 ---
 
 ## Data Sharing / Selling
 
-**We do not share, sell, or distribute your data to anyone.** Your data stays within Nox Vitae and is only used for providing the bot’s functionality.
+**We do not sell, share, or distribute user or server data.**  
+All collected data is used exclusively to provide bot functionality.
 
 ---
 
 ## Data Storage
 
-All data is securely stored by our hosting provider. We use industry-standard protections against unauthorized access, loss, or disclosure.
+Data is securely stored using industry-standard hosting and security practices designed to prevent unauthorized access, loss, or disclosure.
 
 ---
 
 ## User Rights
 
-You may request to remove your data at any time. See the [Privacy Policy](./privacy-policy.md) for instructions on how to initiate this.
+You may request deletion of your data at any time.  
+Instructions are available in our [Privacy Policy](./privacy-policy.md).
 
 ---
 
 ## Data Retention
 
-We retain only the data necessary for the bot to function.
+We retain data only as long as necessary for the bot to function:
 
-- Temporary verification data (such as pending verification records) is stored only during the verification window and is automatically cleared or marked inactive once verification is completed or expires.
-- Account linking data (such as Discord and VRChat IDs) is retained only while the bot is active in a server or until a deletion request is made.
-- When the bot is removed from a server or when a valid data deletion request is submitted, associated data is securely deleted in accordance with applicable laws.
+- **Temporary verification data** is retained only during the active verification window and is cleared or marked inactive once completed or expired.
+- **Account linking data** (Discord and VRChat IDs) is retained only while the bot is active in a server or until a valid deletion request is received.
+- **Server configuration data** is retained only while the bot remains installed.
+- When the bot is removed from a server, associated data is deleted in accordance with applicable laws.
 
 ---
 
-## Data Compliance Standards
+## Compliance
 
-We comply with standard data privacy frameworks. See our [Privacy Policy](./privacy-policy.md) for more details.
+We follow standard data protection and privacy practices.  
+Details are available in our [Privacy Policy](./privacy-policy.md).
 
 ---
 
 ## COPPA Compliance
 
-**Our services are for users 18+ only.** We do not knowingly store data for minors. If you believe this has occurred, please contact **[Nox Vitae's Official Email](mailto:NoxVitaeOfficial@gmail.com)**.
+**Our services are intended for users 18 and older.**  
+If you believe data has been collected in error, contact **[Nox Vitae Official Email](mailto:NoxVitaeOfficial@gmail.com)**.
 
 ---
 
@@ -96,4 +133,4 @@ We comply with standard data privacy frameworks. See our [Privacy Policy](./priv
 
 ---
 
-**Last updated: January 1, 2026**
+**Last updated: January 11, 2026**
