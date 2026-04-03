@@ -8,7 +8,18 @@ export default function Home() {
     <Layout
       title="Nox Vitae Documentation"
       description="Policies, Bot Guides, and Support Resources for the Nox Vitae ecosystem.">
+
       <main className={styles.heroSection}>
+        {/* Cinematic background photo */}
+        <div className={styles.heroBg}>
+          <img
+            src="/img/VRChat_2025-06-13_18-17-23.157_3840x2160.webp"
+            alt=""
+            aria-hidden="true"
+          />
+          <div className={styles.heroBgOverlay} />
+        </div>
+
         <div className={styles.heroInner}>
           <h1 className={styles.heroTitle}>Nox Vitae<br />Documentation Hub</h1>
 
@@ -18,10 +29,10 @@ export default function Home() {
 
           <div className={styles.buttonGroup}>
             <Link className={styles.primaryButton} to="/intro">
-              📚 View All Documentation
+              View All Documentation
             </Link>
             <Link className={styles.secondaryButton} to="/policies/terms-of-service">
-              ⚖️ Legal Center
+              Legal Center
             </Link>
           </div>
         </div>

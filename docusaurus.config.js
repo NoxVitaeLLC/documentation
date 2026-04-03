@@ -5,21 +5,17 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Nox Vitae Documentation',
   tagline: 'Cross-Verification Bot & Legal Center',
-  favicon: 'img/newfavicon.png',
+  favicon: 'img/nv_logo.png',
 
-  // IMPORTANT – replace when deploying (e.g., https://docs.noxvitae.com)
-  url: 'https://yourdomain.com',
+  url: 'https://docs.noxvitaellc.com',
   baseUrl: '/',
 
-  // Handling errors
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Repo reference (not mandatory but standard)
   organizationName: 'NoxVitae',
   projectName: 'documentation',
 
-  // Localization
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -32,14 +28,14 @@ const config = {
       ({
         docs: {
           path: 'docs',
-          routeBasePath: '/', // Docs are the homepage
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: undefined, // No "edit this page"
+          editUrl: undefined,
           sidebarCollapsed: false,
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
         },
-        blog: false, // 🚫 No blog
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -50,37 +46,39 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // 🌓 Color theme
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
 
-      // 🔝 NAVBAR
-            navbar: {
+      navbar: {
         title: 'Nox Vitae Docs',
         logo: {
           alt: 'Nox Vitae Logo',
-          src: 'img/newfavicon.png',
+          src: 'img/nv_logo.png',
           href: '/',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'docsSidebar', // Must match your sidebars.js
+            sidebarId: 'docsSidebar',
             position: 'left',
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/NoxVitae',
-            label: 'GitHub',
+            href: 'https://noxvitaellc.com',
+            label: 'Main Site',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/noxvitae',
+            label: 'Discord',
             position: 'right',
           },
         ],
       },
 
-      // 🔻 FOOTER
       footer: {
         style: 'dark',
         links: [
@@ -94,21 +92,37 @@ const config = {
             ],
           },
           {
+            title: 'Nox Vitae',
+            items: [
+              {
+                label: 'Main Site',
+                href: 'https://noxvitaellc.com',
+              },
+              {
+                label: 'Support on Patreon',
+                href: 'https://www.patreon.com/NoxVitaeOfficial',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/NOXVITAE',
+                href: 'https://discord.gg/noxvitae',
+              },
+              {
+                label: 'VRChat Group',
+                href: 'https://vrc.group/NXVTAE.0182',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nox Vitae. Built using Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nox Vitae LLC. All rights reserved.`,
       },
 
-      // 🔍 Code highlighting
       prism: {
-        theme: prismThemes.github,
+        theme: prismThemes.dracula,
         darkTheme: prismThemes.dracula,
       },
     }),
