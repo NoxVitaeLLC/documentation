@@ -143,4 +143,5 @@
   align-items: center;
   gap: 0.5rem;
   transition: border-color 0.2s ease, color 0.2s ease;
-  text-deco
+  text-decoration: none;
+}
