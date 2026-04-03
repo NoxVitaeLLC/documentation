@@ -72,6 +72,4 @@ Avatars must align with the event's SFW-wear graphics. We do not enforce avatar 
 
 ## Questions & Coordination
 
-For questions, dilemmas, emergencies, or coordination issues, contact the Go-Go Logicians directly via the event Discord.
-
-**Go-Go Logicians:** @QueenIvyRose & @Archantos
+For questions, dilemmas, emergencies, or coordination issues, contact the Go-Go Logicians directl

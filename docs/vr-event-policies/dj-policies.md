@@ -39,5 +39,4 @@ Backup DJs will stand in for any DJ who is unable to perform. This includes the 
 - Any additional reason rendering a DJ unable to fulfill the current booking
 
 :::note
-Backup DJs must be present at least 15 minutes prior to their corresponding set time and throughout the full set. This ensures immediate fill-in capability in the event of technical difficulties.
-:::
+Backup DJs must be present at least 15 minutes prior to their corresponding set time and throughout the full set. This ensures immediate fill-in capability in 

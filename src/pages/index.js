@@ -28,15 +28,11 @@ export default function Home() {
           </p>
 
           <div className={styles.buttonGroup}>
-            <Link className={styles.primaryButton} to="/intro">
+            <Link className={styles.primaryButton} to="/about-credits/">
               View All Documentation
             </Link>
             <Link className={styles.secondaryButton} to="/policies/terms-of-service">
               Legal Center
             </Link>
           </div>
-        </div>
-      </main>
-    </Layout>
-  );
-}
+        </div

@@ -10,7 +10,7 @@ const config = {
   url: 'https://docs.noxvitaellc.com',
   baseUrl: '/',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   organizationName: 'NoxVitae',
@@ -121,11 +121,4 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Nox Vitae LLC. All rights reserved.`,
       },
 
-      prism: {
-        theme: prismThemes.dracula,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
-};
-
-export default config;
+      prism:

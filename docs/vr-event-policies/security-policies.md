@@ -36,5 +36,4 @@ Security staff have moderation permissions.
 ## Professional Conduct
 
 :::warning
-You are a representative of Nox Vitae. Absolutely NO drama while you are on security for an event. You will be removed if you are discussing other club drama or attendees.
-:::
+You are a representative of Nox Vitae. Absolutely NO drama while you are on security for an event. You will be removed if you are discussi

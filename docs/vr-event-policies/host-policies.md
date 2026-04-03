@@ -36,4 +36,4 @@ You are a representative of Nox Vitae. Absolutely NO drama while you are a host 
 
 ## General Support
 
-Hosts serve as the face of the event experience. Be approachable, proactive, and professional at all times.
+Hosts serve as the face of the event experience. Be approachable, proa

@@ -9,4 +9,4 @@ sidebar_position: 6
 
 Content coming soon. For questions about collaborator expectations, open a ticket in the Nox Vitae Discord.
 
-[Join the Discord](https://discord.gg/noxvitae)
+[Join the Discord](https://discord.gg

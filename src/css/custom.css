@@ -421,29 +421,3 @@ tr:nth-child(even) td {
 .DocSearch-Button-Placeholder,
 .DocSearch-Search-Icon {
   color: var(--nv-ash) !important;
-}
-
-/* ── Scrollbar ── */
-::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background: var(--nv-void);
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--nv-charcoal);
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: var(--nv-ash);
-}
-
-/* ── Theme toggle — hide it ── */
-.navbar__toggle,
-.colorModeToggle_DEke,
-[class*='colorModeToggle'] {
-  display: none !important;
-}

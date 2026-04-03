@@ -143,11 +143,4 @@
   align-items: center;
   gap: 0.5rem;
   transition: border-color 0.2s ease, color 0.2s ease;
-  text-decoration: none !important;
-}
-
-.secondaryButton:hover {
-  border-color: #FFFFFF;
-  color: #FFFFFF !important;
-  text-decoration: none !important;
-}
+  text-deco

@@ -23,4 +23,4 @@ For general attendee rules that apply to all guests, see [VR Event Rules](../pol
 | [DJ Policies](dj-policies.md) | Selection process, set punctuality, and backup DJ protocol |
 | [Host Policies](host-policies.md) | Responsibilities, crowd management, and professional conduct |
 | [Security Policies](security-policies.md) | Core responsibilities, crowd management, and conduct expectations |
-| [Collaborator Policies](collaborator-policies.md) | Expectations for collaborating groups and organizations |
+| [Collaborator Policies](collaborator-policies.md) | Expectations for collaborating gr
