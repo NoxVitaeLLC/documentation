@@ -121,4 +121,11 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Nox Vitae LLC. All rights reserved.`,
       },
 
-      prism:
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};
+
+export default config;
