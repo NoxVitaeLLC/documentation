@@ -35,4 +35,9 @@ export default function Home() {
               Legal Center
             </Link>
           </div>
-        </div
+        </div>
+      </main>
+
+    </Layout>
+  );
+}
