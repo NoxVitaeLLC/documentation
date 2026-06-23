@@ -95,17 +95,13 @@ This is an agreement for Services, and you are not granted a license to any soft
 6. You may not use automated systems to scrape, access, or disrupt the Services.  
 7. use the Services or any Software for the benefit of a third party; or remove any proprietary notices or labels
 
-**Public Disclosure of Bans**
+**Internal Ban Record Retention**
 
-Nox Vitae reserves the right to publicly disclose the Discord IDs of users who have been banned from our services. Such disclosures will contain no personal information beyond the Discord ID, and no ban reason or other identifying details will be shared publicly.
+Nox Vitae retains the Discord IDs of banned users internally and indefinitely following a ban. This retention serves our legitimate interest in preventing banned users from circumventing bans or re-registering for our services.
 
-By using our services, you acknowledge and agree that:  
-(a) Your Discord ID may be published on a public ban list in the event that your access to the services is terminated for a violation of these Terms;  
-(b) This disclosure serves Nox Vitae's legitimate interest in protecting the safety and integrity of affiliated communities and the minors they serve;  
-(c) This use of your Discord ID is consistent with the Account Information collection practices described in our Privacy Policy;  
-(d) If you are a resident of the European Economic Area (EEA), the lawful basis for this processing is Nox Vitae's legitimate interests under Article 6(1)(f) of the GDPR, specifically the protection of minors and the prevention of fraudulent use of our services.
+Ban reasons are strictly confidential and will not be disclosed to any third party. Ban reasons will only be communicated directly to the banned individual upon request.
 
-If you believe your Discord ID has been listed in error, you may contact us at [NoxVitaeOfficial@gmail.com](mailto:NoxVitaeOfficial@gmail.com) to request a review.
+This retention policy does not affect users in good standing. Users who have not been banned retain full data subject rights, including the right to request deletion of their data.
 
 ---
 

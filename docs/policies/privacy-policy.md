@@ -28,7 +28,7 @@ If you would like an abbreviated version, you can see our [Data Collection TLDR]
 
 **“Account Information”** means data a user voluntarily provides Nox Vitae, either by: (a) installing the Nox Vitae Services in their Discord communities, (b) accessing the Nox Vitae Services as a means of Age Verification, (c) providing data by joining a Discord Guild, a VRChat group, or other platform groups and unique identifiers, or (d) providing data to a Discord Guild that has Nox Vitae services installed.
 
-- The Nox Vitae services store your Discord ID for account linking purposes  
+- The Nox Vitae services store your Discord ID for account linking purposes. Discord IDs associated with banned accounts are retained indefinitely for internal enforcement and security purposes, regardless of any data deletion request.  
 - The Nox Vitae services store your VRC ID for account linking purposes
 
 **“Contact Information”** means basic personal and business information, such as first and last name, company name, email address, postal address, phone number, and may include social media account information, if provided voluntarily.
@@ -98,7 +98,7 @@ When a Owner interacts with our “Bot”, Nox Vitae may collect and control inf
 
 ### 2.3 Information Usage
 
-We use this information as a Controller to provide Owners with our services, confirm identities, provide support such as debugging, troubleshooting, automated decision making such as the detection of fraudulent account creation when signing up for our service, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and services, to improve and personalize our services, such as push notifications regarding your “guild” or server activities, and to comply with legal requirements. We may use this information in other cases with your consent. In cases where an Owner or Individual is banned for a Terms of Service violation, Nox Vitae reserves the right to publicly disclose their Discord ID on a ban list for the purpose of maintaining platform safety and integrity.
+We use this information as a Controller to provide Owners with our services, confirm identities, provide support such as debugging, troubleshooting, automated decision making such as the detection of fraudulent account creation when signing up for our service, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and services, to improve and personalize our services, such as push notifications regarding your “guild” or server activities, and to comply with legal requirements. We may use this information in other cases with your consent. In cases where an Owner or Individual is banned for a Terms of Service violation, Nox Vitae will retain their Discord ID indefinitely for internal enforcement purposes. This data will not be made publicly accessible.
 
 - **Prohibited Uses.** Nox Vitae does not use collected data to profile users or infer relationships between them, to discriminate against individuals or groups, or for any purpose not stated in this policy. We do not attempt to re-identify anonymized or aggregated data, and we do not use data for activities outside the scope of our stated services.
 
@@ -142,7 +142,7 @@ If we ask you to provide Personal Data to comply with a legal requirement or to 
 ### 5.3 Legitimate Interest
 If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities (e.g. checking your identity, fraud prevention).
 
-If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, or for the purposes of detecting or preventing illegal activities (e.g. checking your identity, fraud prevention, or publicly disclosing ban status to protect minors and maintain platform integrity).
+If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, or for the indefinite internal retention of banned user Discord IDs for the purposes of ban enforcement and platform security.
 
 ### 5.4 Questions
 If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please contact us using the contact details provided below.
@@ -185,9 +185,6 @@ We share payment data with banks and other entities that process payment transac
 
 ### 7.5 Merger; Sale
 We may also disclose Personal Data as part of a corporate transaction such as a merger or sale of assets.
-
-### 7.6 Public Ban Disclosure
-Nox Vitae may publicly disclose the Discord IDs of users who have been banned from our services. Such disclosures will contain no personal information beyond the Discord ID itself. This disclosure serves Nox Vitae's legitimate interest in protecting the safety and integrity of affiliated communities and the minors they serve.
 
 ---
 
@@ -240,7 +237,7 @@ We maintain administrative, technical, and physical security measures designed t
 While we are dedicated to securing our Website and services, you are responsible for securing and maintaining the privacy of your passwords and account information. We are not responsible for protecting Personal Data shared with a third-party based on an account connection that you have authorized.
 
 ### 10.3 Retention
-We use and retain your Personal Data for, and as long as, necessary for the purpose for which it was provided, including any purposes set for in this Privacy Policy (e.g., for services, products, or interactions that you have requested or initiated; for communications with you; for invoicing, advertising, and marketing; for improving user experience, such as troubleshooting, optimization, and personalization; and to comply with legal, contractual, and regulatory obligations). We may also use and retain information for other purposes where you have given consent, such as in response to a pricing or hiring inquiry, or where a legitimate commercial interest exists. Discord IDs published to the public ban list may be retained indefinitely or until a successful appeal is granted.
+We use and retain your Personal Data for, and as long as, necessary for the purpose for which it was provided, including any purposes set for in this Privacy Policy (e.g., for services, products, or interactions that you have requested or initiated; for communications with you; for invoicing, advertising, and marketing; for improving user experience, such as troubleshooting, optimization, and personalization; and to comply with legal, contractual, and regulatory obligations). We may also use and retain information for other purposes where you have given consent, such as in response to a pricing or hiring inquiry, or where a legitimate commercial interest exists. Discord IDs associated with banned accounts are exempt from standard data retention limits and will be retained indefinitely by Nox Vitae for internal enforcement purposes. Users in good standing are not affected by this exemption and retain full data subject rights, including the right to request deletion.
 
 ---
 
@@ -259,7 +256,7 @@ If we learn Personal Data is not protected to our standard, or is being processe
 ## 12. Data Subject Rights
 
 ### 12.1 Generally
-Under applicable law, you may have the ability to exercise certain rights over your Personal Data. Because Nox Vitae values your Privacy, we strive to provide reasonable steps to allow you to access, rectify, erase, port, and restrict or object to the use of your Personal Data regardless of whether a specific statutory right to do so exists. When collection is based on your consent, we attempt to provide you with notice at collection and the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal by applicable law. If permitted by applicable law, you may also have the right to lodge a complaint with a supervisory or regulatory authority if you believe that the processing of your personal data infringes your rights. Exercise of certain rights, including requests for deletion of Personal Data, may be limited in certain circumstances and may adversely affect our ability to serve you.
+Under applicable law, you may have the ability to exercise certain rights over your Personal Data. Because Nox Vitae values your Privacy, we strive to provide reasonable steps to allow you to access, rectify, erase, port, and restrict or object to the use of your Personal Data regardless of whether a specific statutory right to do so exists. When collection is based on your consent, we attempt to provide you with notice at collection and the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal by applicable law. If permitted by applicable law, you may also have the right to lodge a complaint with a supervisory or regulatory authority if you believe that the processing of your personal data infringes your rights. Exercise of certain rights, including requests for deletion of Personal Data, may be limited in certain circumstances and may adversely affect our ability to serve you. Data deletion requests submitted by banned users may be declined to the extent that retaining their Discord ID is necessary for the ongoing enforcement of our Terms of Service.
 
 ### 12.2 Individuals
 We serve as a Processor for Owners. Individuals may wish to contact Owners directly regarding their Personal Data, as Owners act as Controllers over such Personal Data. When appropriately identified, we can forward Individual requests for access or deletion to Owners.
