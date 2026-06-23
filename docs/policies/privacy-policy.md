@@ -12,6 +12,8 @@ sidebar_label: Privacy Policy
 
 The terms below are incorporated into, and form an integral part of, the Nox Vitae Terms of Service. Unless otherwise defined herein, capitalized terms shall have the meaning ascribed them in the Terms of Service. Any breach of the terms below will be deemed a material breach of the Terms of Service.
 
+**Last Revised: June 22, 2026**
+
 Nox Vitae aims to help you better understand how we collect, use, protect, and share your personal data. This Privacy Policy is designed to help you understand your privacy choices when you visit our site or use our services. It does not apply to other websites or services that we do not control, including websites or services of other Nox Vitae users.
 
 This Privacy Policy is incorporated by reference into, and forms an integral part of, the Nox Vitae Terms of Service. Capitalized terms have the meanings ascribed to them in the Definitions section or our [Terms of Service](https://www.notion.so/Terms-of-Service-395f9526dabb44e3a334c9ce93e7a57e?pvs=21). Please note that our services may vary by region.
@@ -96,7 +98,7 @@ When a Owner interacts with our “Bot”, Nox Vitae may collect and control inf
 
 ### 2.3 Information Usage
 
-We use this information as a Controller to provide Owners with our services, confirm identities, provide support such as debugging, troubleshooting, automated decision making such as the detection of fraudulent account creation when signing up for our service, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and services, to improve and personalize our services, such as push notifications regarding your “guild” or server activities, and to comply with legal requirements. We may use this information in other cases with your consent.
+We use this information as a Controller to provide Owners with our services, confirm identities, provide support such as debugging, troubleshooting, automated decision making such as the detection of fraudulent account creation when signing up for our service, for advertising and marketing, invoicing, to resolve incidents related to the use of our Website and services, to improve and personalize our services, such as push notifications regarding your “guild” or server activities, and to comply with legal requirements. We may use this information in other cases with your consent. In cases where an Owner or Individual is banned for a Terms of Service violation, Nox Vitae reserves the right to publicly disclose their Discord ID on a ban list for the purpose of maintaining platform safety and integrity.
 
 - **Prohibited Uses.** Nox Vitae does not use collected data to profile users or infer relationships between them, to discriminate against individuals or groups, or for any purpose not stated in this policy. We do not attempt to re-identify anonymized or aggregated data, and we do not use data for activities outside the scope of our stated services.
 
@@ -140,7 +142,7 @@ If we ask you to provide Personal Data to comply with a legal requirement or to 
 ### 5.3 Legitimate Interest
 If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities (e.g. checking your identity, fraud prevention).
 
-If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities (e.g. checking your identity, fraud prevention).
+If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. For instance, we may rely on our legitimate interests when responding to your queries, improving and personalizing our platform, or for the purposes of detecting or preventing illegal activities (e.g. checking your identity, fraud prevention, or publicly disclosing ban status to protect minors and maintain platform integrity).
 
 ### 5.4 Questions
 If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Data, please contact us using the contact details provided below.
@@ -183,6 +185,9 @@ We share payment data with banks and other entities that process payment transac
 
 ### 7.5 Merger; Sale
 We may also disclose Personal Data as part of a corporate transaction such as a merger or sale of assets.
+
+### 7.6 Public Ban Disclosure
+Nox Vitae may publicly disclose the Discord IDs of users who have been banned from our services. Such disclosures will contain no personal information beyond the Discord ID itself. This disclosure serves Nox Vitae's legitimate interest in protecting the safety and integrity of affiliated communities and the minors they serve.
 
 ---
 
@@ -235,7 +240,7 @@ We maintain administrative, technical, and physical security measures designed t
 While we are dedicated to securing our Website and services, you are responsible for securing and maintaining the privacy of your passwords and account information. We are not responsible for protecting Personal Data shared with a third-party based on an account connection that you have authorized.
 
 ### 10.3 Retention
-We use and retain your Personal Data for, and as long as, necessary for the purpose for which it was provided, including any purposes set for in this Privacy Policy (e.g., for services, products, or interactions that you have requested or initiated; for communications with you; for invoicing, advertising, and marketing; for improving user experience, such as troubleshooting, optimization, and personalization; and to comply with legal, contractual, and regulatory obligations). We may also use and retain information for other purposes where you have given consent, such as in response to a pricing or hiring inquiry, or where a legitimate commercial interest exists.
+We use and retain your Personal Data for, and as long as, necessary for the purpose for which it was provided, including any purposes set for in this Privacy Policy (e.g., for services, products, or interactions that you have requested or initiated; for communications with you; for invoicing, advertising, and marketing; for improving user experience, such as troubleshooting, optimization, and personalization; and to comply with legal, contractual, and regulatory obligations). We may also use and retain information for other purposes where you have given consent, such as in response to a pricing or hiring inquiry, or where a legitimate commercial interest exists. Discord IDs published to the public ban list may be retained indefinitely or until a successful appeal is granted.
 
 ---
 
