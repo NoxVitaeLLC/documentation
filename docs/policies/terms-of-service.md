@@ -45,7 +45,7 @@ You are entering into this agreement with Nox Vitae LLC, a U.S.-based limited li
 
 ## 5. Certain Definitions {#certain-definitions}
 “User” refers to any individual or entity using or accessing the Services.  
-“Verified User” means a user who has completed age verification via a third-party service, and cross-verified via the Bot.  
+“Verified User” means a user who has completed age verification via a third-party service, and cross-verified via the Bot. Nox Vitae only reflects the verification status reported by the applicable third-party service and does not independently verify, guarantee, or warrant that any Verified User is actually an adult. Responsibility for accurate age representation lies solely with the user and the third-party verification platform.  
 “Affiliated Community” means any partnered or cross-verified VRChat community, server, or organization operating under mutual access standards.
 
 “Services” means all Nox Vitae products, services, and materials located on or accessible through the Website or otherwise described in an Order.
@@ -274,6 +274,8 @@ With respect to these Terms, you represent, warrant, and covenant that you:
 
    b. **Specific.**  
    No warranties regarding performance, accuracy, or content.
+
+   **Age Verification Limitation.** Nox Vitae's cross-verification service reflects age verification status as reported by third-party platforms, including but not limited to VRChat. Nox Vitae does not independently verify the age of any user and makes no guarantee, representation, or warranty that any user granted access through the Services is actually an adult. By using the Services, you acknowledge and agree that Nox Vitae's role is limited to relaying third-party verification status, and that Nox Vitae bears no liability for any misrepresentation of age by any user on any third-party platform.
 
    c. **Third-Party Products.**  
    References are not endorsements.
